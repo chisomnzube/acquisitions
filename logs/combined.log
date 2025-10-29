@@ -39,3 +39,27 @@
 {"level":"info","message":"User nzube@gmail.com authenticated successfully","service":"acquisitions-api","timestamp":"2025-10-28T10:12:33.049Z"}
 {"level":"info","message":"User signed in successfully!","service":"acquisitions-api","timestamp":"2025-10-28T10:12:33.053Z"}
 {"level":"info","message":"::ffff:127.0.0.1 - - [28/Oct/2025:10:12:33 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 99 \"-\" \"insomnia/11.1.0\"","service":"acquisitions-api","timestamp":"2025-10-28T10:12:33.055Z"}
+{"level":"info","message":"User nzube@gmail.com authenticated successfully","service":"acquisitions-api","timestamp":"2025-10-28T10:14:13.016Z"}
+{"level":"info","message":"User signed in successfully!","service":"acquisitions-api","timestamp":"2025-10-28T10:14:13.020Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [28/Oct/2025:10:14:13 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 99 \"-\" \"insomnia/11.1.0\"","service":"acquisitions-api","timestamp":"2025-10-28T10:14:13.024Z"}
+{"level":"info","message":"User signed out successfully!","service":"acquisitions-api","timestamp":"2025-10-28T10:14:32.157Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [28/Oct/2025:10:14:32 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"insomnia/11.1.0\"","service":"acquisitions-api","timestamp":"2025-10-28T10:14:32.158Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [28/Oct/2025:10:56:11 +0000] \"POST /health HTTP/1.1\" 404 146 \"-\" \"insomnia/11.1.0\"","service":"acquisitions-api","timestamp":"2025-10-28T10:56:11.015Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [28/Oct/2025:10:56:15 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"insomnia/11.1.0\"","service":"acquisitions-api","timestamp":"2025-10-28T10:56:15.402Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [28/Oct/2025:10:56:21 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"insomnia/11.1.0\"","service":"acquisitions-api","timestamp":"2025-10-28T10:56:21.546Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [28/Oct/2025:10:56:22 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"insomnia/11.1.0\"","service":"acquisitions-api","timestamp":"2025-10-28T10:56:22.108Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [28/Oct/2025:10:56:22 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"insomnia/11.1.0\"","service":"acquisitions-api","timestamp":"2025-10-28T10:56:22.329Z"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","timestamp":"2025-10-28T10:56:22.535Z","userAgent":"insomnia/11.1.0"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [28/Oct/2025:10:56:22 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"insomnia/11.1.0\"","service":"acquisitions-api","timestamp":"2025-10-28T10:56:22.537Z"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","timestamp":"2025-10-28T10:56:22.547Z","userAgent":"insomnia/11.1.0"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [28/Oct/2025:10:56:22 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"insomnia/11.1.0\"","service":"acquisitions-api","timestamp":"2025-10-28T10:56:22.548Z"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","timestamp":"2025-10-28T10:56:22.750Z","userAgent":"insomnia/11.1.0"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [28/Oct/2025:10:56:22 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"insomnia/11.1.0\"","service":"acquisitions-api","timestamp":"2025-10-28T10:56:22.751Z"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","timestamp":"2025-10-28T10:56:22.865Z","userAgent":"insomnia/11.1.0"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [28/Oct/2025:10:56:22 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"insomnia/11.1.0\"","service":"acquisitions-api","timestamp":"2025-10-28T10:56:22.866Z"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","timestamp":"2025-10-28T10:56:23.074Z","userAgent":"insomnia/11.1.0"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [28/Oct/2025:10:56:23 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"insomnia/11.1.0\"","service":"acquisitions-api","timestamp":"2025-10-28T10:56:23.076Z"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","timestamp":"2025-10-28T10:56:32.854Z","userAgent":"insomnia/11.1.0"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [28/Oct/2025:10:56:32 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"insomnia/11.1.0\"","service":"acquisitions-api","timestamp":"2025-10-28T10:56:32.855Z"}
+{"ip":"::ffff:127.0.0.1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","timestamp":"2025-10-28T10:56:33.654Z","userAgent":"insomnia/11.1.0"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [28/Oct/2025:10:56:33 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"insomnia/11.1.0\"","service":"acquisitions-api","timestamp":"2025-10-28T10:56:33.656Z"}
